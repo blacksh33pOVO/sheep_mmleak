@@ -7,6 +7,6 @@
         文件信息包含1.[filename, funcname, line]、内存地址， 内存大小
                     2.[caller]、内存地址， 内存大小
 
-        调用free之后，会删除block文件夹里面对应地址名字的文件
+        #调用free之后，会删除block文件夹里面对应地址名字的文件
 
 #block文件夹里剩下的文件是未被free释放的内存地址
